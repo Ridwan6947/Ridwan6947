@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif", width="100", height=100/>
   </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ridwan-ahmad-1b1310222/">
+  <a href="https://www.linkedin.com/in/ridwanahmad47/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/ridwanahamed47/">
@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻: About Me:
-- :telescope: I am currently a student at VIT Bhopal , Working to be a SDE engineer and a Web Developer.
+- :telescope: I am currently a student at VIT Bhopal , Working to be a SDE and a Full Stack Developer.
 - :seedling: Current exploring software development and deployment and Full stack Development.
 - ⚽ I like to go to gym and play Football along with solving problems on LeetCode in my free time.
 - :mailbox: To reach me [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ridwan-ahmad-1b1310222/") [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]("ridwanahamed47@gmail.com")
