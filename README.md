@@ -28,7 +28,6 @@
 ---
 
 ### 👨‍💻: About Me:
-- :telescope: I am currently working as an Enterprise Software Developer at Hotwax Commerce
 - :seedling: Current exploring Vue.js and Ionic 
 - ⚽ I like to go to gym and play Football along with solving problems on LeetCode in my free time.
 - :mailbox: To reach me [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ridwan-ahmad-1b1310222/") [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]("ridwanahamed47@gmail.com")
